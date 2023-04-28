@@ -1,0 +1,5 @@
+pandas
+dash
+requests
+alpha_vantage
+plotly
